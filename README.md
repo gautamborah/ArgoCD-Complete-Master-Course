@@ -43,3 +43,4 @@ Before you begin, ensure you have met the following requirements:
 - Access to a Kubernetes cluster
 - Basic knowledge of Kubernetes resource management
 - test
+- best
